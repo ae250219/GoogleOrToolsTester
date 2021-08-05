@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5a/bhyzcaHMgsHxjEp/gNOAEi+ynQSeOSZ+5vqy/kS7pz9RTA0KSUG5a5sxInGlOfpZxP/E2y0Ag997MEx+Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ae250219\\source\\repos\\GoogleOrToolsTesterDocker\\GoogleOrToolsTesterDocker\\GoogleOrToolsTesterDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ae250219\\.nuget\\packages\\google.ortools\\9.0.9048\\google.ortools.9.0.9048.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.0.9048\\google.ortools.runtime.linux-x64.9.0.9048.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.0.9048\\google.ortools.runtime.osx-x64.9.0.9048.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.0.9048\\google.ortools.runtime.win-x64.9.0.9048.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\google.protobuf\\3.15.8\\google.protobuf.3.15.8.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ae250219\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Google.OrTools.runtime.win-x64 9.0.9048' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Google.OrTools.runtime.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
